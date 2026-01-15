@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "name": "Camisa São Paulo III 24 Masculina Torcedor",
+    "price": 90,
+    "image": "/images/spfc.jpeg",
+    "sizes": ["P", "M", "G", "GG"],
+    "category": "retro"
+  },
+  {
+    "id": "2",
+    "name": "Camisa Inter de Milão Titular 97/98",
+    "price": 150,
+    "image": "/images/spfc.jpeg",
+    "sizes": ["P", "M", "G", "GG"],
+    "category": "retro"
+  },
+  {
+    "id": "3",
+    "name": "Camisa Seleção México 25/26 Masculina",
+    "price": 110,
+    "image": "/images/spfc.jpeg",
+    "sizes": ["P", "M", "G", "GG"],
+    "category": "retro"
+  },
+
+  {
+  "id": "4",
+  "name": "Camisa Beisebol 25/26",
+  "price": 129.90,
+  "image": "/images/spfc.jpeg",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "beisebol"
+},
+  {
+  "id": "5",
+  "name": "Camisa Beisebol 25/26",
+  "price": 129.90,
+  "image": "/images/spfc.jpeg",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "beisebol"
+},
+  {
+  "id": "6",
+  "name": "Camisa Beisebol 25/26",
+  "price": 129.90,
+  "image": "/images/spfc.jpeg",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "beisebol"
+},
+  {
+  "id": "7",
+  "name": "Camisa Beisebol 25/26",
+  "price": 129.90,
+  "image": "/images/spfc.jpeg",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "beisebol"
+},
+  {
+  "id": "8",
+  "name": "Camisa Beisebol 25/26",
+  "price": 129.90,
+  "image": "/images/spfc.jpeg",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "beisebol"
+}
+
+]

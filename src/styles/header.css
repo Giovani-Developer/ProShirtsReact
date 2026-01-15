@@ -1,0 +1,276 @@
+/* =========================
+   HEADER - ESTRUTURA GERAL
+========================= */
+
+.header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* =========================
+   TOP BAR (AZUL)
+========================= */
+
+.top-bar {
+  width: 100%;
+  background-color: #00d4ff;
+  color: #000;
+  text-align: center;
+  font-size: 14px;
+  padding: 6px 10px;
+  font-weight: 500;
+}
+
+/* =========================
+   ÁREA PRINCIPAL (VERDE)
+========================= */
+
+.main-header {
+  width: 100%;
+  background-color: #18a83e;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 40px;
+  gap: 20px;
+}
+
+/* =========================
+   LOGO
+========================= */
+
+.logo {
+  font-size: 34px;
+  font-weight: bold;
+  color: #d4ff00;
+  white-space: nowrap;
+}
+
+/* =========================
+   CAMPO DE BUSCA
+========================= */
+
+.main-header input {
+  flex: 1;
+  max-width: 520px;
+  padding: 12px 14px;
+  font-size: 14px;
+  border-radius: 4px;
+  border: none;
+  outline: none;
+}
+
+/* =========================
+   ÍCONES (CONTA / FAVORITO / CARRINHO)
+========================= */
+
+.icons {
+  display: flex;
+  gap: 16px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.icons span {
+  user-select: none;
+}
+
+/* =========================
+   MENU DE CATEGORIAS
+========================= */
+
+.menu {
+  width: 100%;
+  background-color: #18a83e;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  padding: 12px 40px;
+}
+
+.menu a {
+  font-size: 14px;
+  color: #ffffff;
+  text-decoration: none;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.menu a:hover {
+  text-decoration: underline;
+}
+
+/* =========================
+   RESPONSIVO
+========================= */
+
+@media (max-width: 900px) {
+  .main-header {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .main-header input {
+    max-width: 100%;
+  }
+
+  .icons {
+    justify-content: center;
+  }
+
+  .menu {
+    justify-content: center;
+  }
+}
+
+.cart-icon {
+  position: relative;
+  text-decoration: none;
+  color: inherit;
+}
+
+.cart-count {
+  position: absolute;
+  top: -6px;
+  right: -10px;
+  background-color: #000;
+  color: #fff;
+  font-size: 11px;
+  padding: 2px 6px;
+  border-radius: 50%;
+}
+/* =========================
+   HEADER BASE
+========================= */
+
+.header {
+  width: 100%;
+  border-bottom: 1px solid #e0e0e0;
+  background: #fff;
+}
+
+.top-bar {
+  background: #0033a0;
+  color: #fff;
+  text-align: center;
+  font-size: 12px;
+  padding: 6px 0;
+}
+
+.main-header {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  padding: 14px 16px;
+}
+
+
+.logo {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.search-desktop {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.icons {
+  display: flex;
+  gap: 12px;
+}
+
+.cart-icon {
+  position: relative;
+}
+
+.cart-count {
+  position: absolute;
+  top: -6px;
+  right: -8px;
+  background: red;
+  color: #fff;
+  font-size: 10px;
+  padding: 2px 6px;
+  border-radius: 50%;
+}
+
+/* =========================
+   MENU DESKTOP
+========================= */
+
+.desktop-menu {
+  display: flex;
+  gap: 18px;
+  padding: 10px 24px;
+}
+
+/* =========================
+   MOBILE
+========================= */
+
+.menu-btn {
+  background: none;
+  border: none;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+
+@media (max-width: 768px) {
+  .search-desktop {
+    display: none;
+  }
+
+  .desktop-menu {
+    display: none;
+  }
+
+  .menu-btn {
+    display: block;
+  }
+
+  .logo {
+    text-align: center;
+    font-size: 20px;
+  }
+}
+
+/* =========================
+   OVERLAY
+========================= */
+
+.mobile-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.5);
+  z-index: 999;
+}
+
+.mobile-menu {
+  width: 260px;
+  height: 100%;
+  background: #fff;
+  padding: 20px;
+}
+
+.mobile-menu nav {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.close-btn {
+  background: none;
+  border: none;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.search-mobile {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+}
