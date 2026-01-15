@@ -63,6 +63,71 @@
   "image": "/images/spfc.jpeg",
   "sizes": ["P", "M", "G", "GG"],
   "category": "beisebol"
+},
+  {
+  "id": "9",
+  "name": "Camisa Beisebol 25/26",
+  "price": 129.90,
+  "image": "/images/spfc.jpeg",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "beisebol"
+},
+  {
+  "id": "10",
+  "name": "Camisa Beisebol 25/26",
+  "price": 129.90,
+  "image": "/images/spfc.jpeg",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "beisebol"
+},
+  {
+  "id": "11",
+  "name": "Camisa Beisebol 25/26",
+  "price": 129.90,
+  "image": "/images/spfc.jpeg",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "beisebol"
+},
+  {
+  "id": "12",
+  "name": "Camisa Beisebol 25/26",
+  "price": 129.90,
+  "image": "/images/spfc.jpeg",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "beisebol"
+},
+  {
+  "id": "13",
+  "name": "Camisa Beisebol 25/26",
+  "price": 129.90,
+  "image": "/images/spfc.jpeg",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "beisebol"
+},
+  {
+  "id": "14",
+  "name": "Camisa Beisebol 25/26",
+  "price": 129.90,
+  "image": "/images/spfc.jpeg",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "beisebol"
+},
+  {
+  "id": "15",
+  "name": "Camisa Beisebol 25/26",
+  "price": 129.90,
+  "image": "/images/spfc.jpeg",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "beisebol"
+},
+  {
+  "id": "16",
+  "name": "Camisa Beisebol 25/26",
+  "price": 129.90,
+  "image": "/images/spfc.jpeg",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "beisebol"
 }
+
 
 ]

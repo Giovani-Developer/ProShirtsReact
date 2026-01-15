@@ -14,8 +14,8 @@
 
 .top-bar {
   width: 100%;
-  background-color: #00d4ff;
-  color: #000;
+  background-color: #ffffff;
+  color: #000000;
   text-align: center;
   font-size: 14px;
   padding: 6px 10px;
@@ -23,28 +23,29 @@
 }
 
 /* =========================
-   ÁREA PRINCIPAL (VERDE)
+   ÁREA PRINCIPAL (VERMELHO)
 ========================= */
-
 .main-header {
-  width: 100%;
-  background-color: #18a83e;
   display: flex;
+  justify-content: space-between; /* esquerda e direita */
   align-items: center;
-  justify-content: space-between;
-  padding: 16px 40px;
-  gap: 20px;
+  padding: 10px 24px;
+  background: #ffffff;
+  position: relative;
+  z-index: 100;
+  gap: 16px;
 }
 
-/* =========================
-   LOGO
-========================= */
+.left {
+  display: flex;
+  align-items: center;
+  gap: 16px; /* espaço entre botão menu e logo */
+}
 
 .logo {
-  font-size: 34px;
-  font-weight: bold;
-  color: #d4ff00;
-  white-space: nowrap;
+  height: 50px;
+  width: auto;
+  display: block;
 }
 
 /* =========================
@@ -67,22 +68,34 @@
 
 .icons {
   display: flex;
+  align-items: center;
   gap: 16px;
+}
+
+.icons span,
+.cart-icon {
   font-size: 20px;
   cursor: pointer;
+  position: relative;
 }
 
-.icons span {
-  user-select: none;
+.cart-count {
+  position: absolute;
+  top: -6px;
+  right: -10px;
+  background-color: red;
+  color: #fff;
+  font-size: 12px;
+  padding: 2px 6px;
+  border-radius: 50%;
 }
-
 /* =========================
    MENU DE CATEGORIAS
 ========================= */
 
 .menu {
   width: 100%;
-  background-color: #18a83e;
+  background-color: #ffffff;
   display: flex;
   flex-wrap: wrap;
   gap: 18px;
@@ -91,14 +104,14 @@
 
 .menu a {
   font-size: 14px;
-  color: #ffffff;
+  color: #000000;
   text-decoration: none;
   cursor: pointer;
   white-space: nowrap;
 }
 
 .menu a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 /* =========================
@@ -116,7 +129,8 @@
   }
 
   .icons {
-    justify-content: center;
+    justify-content: flex-end;
+    margin-top: 10px;
   }
 
   .menu {
@@ -151,7 +165,7 @@
 }
 
 .top-bar {
-  background: #0033a0;
+  background: #181818;
   color: #fff;
   text-align: center;
   font-size: 12px;
@@ -166,10 +180,6 @@
 }
 
 
-.logo {
-  font-size: 22px;
-  font-weight: 700;
-}
 
 .search-desktop {
   flex: 1;
@@ -212,9 +222,9 @@
 ========================= */
 
 .menu-btn {
+  font-size: 24px;
   background: none;
   border: none;
-  font-size: 22px;
   cursor: pointer;
 }
 

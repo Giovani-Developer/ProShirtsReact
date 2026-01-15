@@ -1,0 +1,62 @@
+/* =========================
+   BENEFITS SECTION
+========================= */
+
+.benefits {
+  width: 100%;
+  background: #f9f9f9; /* fundo leve */
+  padding: 40px 24px;
+}
+
+.benefits-container {
+  display: flex;
+  justify-content: space-between; /* distribui cards igualmente */
+  gap: 20px;                      /* espaço entre cards */
+  flex-wrap: wrap;                 /* permite quebrar linha no mobile */
+}
+
+.benefit-card {
+  flex: 1 1 200px;                 /* cresce e encolhe, largura mínima 200px */
+  background: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  cursor: default;
+}
+
+.benefit-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.benefit-icon {
+  font-size: 32px;
+  display: block;
+  margin-bottom: 12px;
+}
+
+.benefit-card h3 {
+  font-size: 18px;
+  margin-bottom: 8px;
+  font-weight: 600;
+}
+
+.benefit-card p {
+  font-size: 14px;
+  color: #555;
+}
+
+/* =========================
+   RESPONSIVO
+========================= */
+@media (max-width: 768px) {
+  .benefits-container {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .benefit-card {
+    width: 100%;
+  }
+}

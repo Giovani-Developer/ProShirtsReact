@@ -2,6 +2,8 @@ import { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
 import ProductGrid from "../components/ProductGrid";
 import Banner from "../components/Banner";
+import Benefits from "../components/Benefits";
+
 import productsData from "../data/products.json";
 
 export default function Home() {
@@ -34,6 +36,7 @@ export default function Home() {
   return (
     <>
       <Banner />
+      <Benefits />
       <ProductGrid products={products} />
     </>
   );

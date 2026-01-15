@@ -10,6 +10,9 @@ export default function App() {
   return (
     <>
       <Header />
+      
+      
+      
 
       <Routes>
         <Route path="/" element={<Home />} />
@@ -17,7 +20,9 @@ export default function App() {
         <Route path="/produto/:id" element={<ProductDetails />} />
         <Route path="/cart" element={<Cart />} />
         <Route path="/checkout" element={<Checkout />} />
+        
       </Routes>
+      
     </>
   );
 }
