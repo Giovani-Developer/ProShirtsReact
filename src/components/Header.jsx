@@ -12,16 +12,32 @@ export default function Header() {
   const navigate = useNavigate();
 
   useEffect(() => {
+  const params = new URLSearchParams(location.search);
+  const q = params.get("q") || "";
+  setSearch(q);
+}, [location.search]);
+
+
+  useEffect(() => {
     const cart = JSON.parse(localStorage.getItem("cart")) || [];
     setCartCount(cart.length);
   }, [location]);
 
-  const handleSearch = (e) => {
-    if (e.key === "Enter") {
-      navigate(`/?q=${encodeURIComponent(search)}`);
-      setMenuOpen(false);
+const handleSearch = (e) => {
+  if (e.key === "Enter") {
+    const params = new URLSearchParams(location.search);
+
+    if (search.trim()) {
+      params.set("", search.trim());
+    } else {
+      params.delete("q");
     }
-  };
+
+    navigate(`/?${params.toString()}`);
+    setMenuOpen(false);
+  }
+};
+
 
   const closeMenu = () => setMenuOpen(false);
 
@@ -61,15 +77,24 @@ export default function Header() {
           <Link to="/" onClick={closeMenu}>
             Toda a loja
           </Link>
-          <Link to="/?categoria=beisebol" onClick={closeMenu}>
+          <Link to="/?categoria=torcedor" onClick={closeMenu}>
             Torcedor 25/26
           </Link>
-          <Link to="/?categoria=copa" onClick={closeMenu}>
+          <Link to="/?categoria=jogador" onClick={closeMenu}>
             Jogador
           </Link>
-          <Link to="/?categoria=drifit" onClick={closeMenu}>
+          <Link to="/?categoria=retro" onClick={closeMenu}>
             Retro
           </Link>
+                  {/* SEARCH */}
+        <input
+          className="search-desktop"
+          type="text"
+          placeholder="O que você está procurando?"
+          value={search}
+          onChange={(e) => setSearch(e.target.value)}
+          onKeyDown={handleSearch}
+        />
           
         </nav>
       </header>
@@ -90,6 +115,7 @@ export default function Header() {
               onChange={(e) => setSearch(e.target.value)}
               onKeyDown={handleSearch}
             />
+            
 
             <motion.nav
               initial={{ x: "-100%" }}
@@ -101,17 +127,11 @@ export default function Header() {
                 <Link to="/" onClick={closeMenu}>
                   Toda a loja
                 </Link>
-                <Link to="/?categoria=beisebol" onClick={closeMenu}>
-                  Beisebol
+                <Link to="/?categoria=torcedor" onClick={closeMenu}>
+                  Torcedor 25/26
                 </Link>
-                <Link to="/?categoria=copa" onClick={closeMenu}>
-                  Copa do mundo
-                </Link>
-                <Link to="/?categoria=drifit" onClick={closeMenu}>
-                  Dri Fit
-                </Link>
-                <Link to="/?categoria=feminino" onClick={closeMenu}>
-                  Feminino
+                <Link to="/?categoria=jogador" onClick={closeMenu}>
+                  Jogador
                 </Link>
                 <Link to="/?categoria=retro" onClick={closeMenu}>
                   Retro

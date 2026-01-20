@@ -18,9 +18,9 @@ export default function Home() {
 
     let filtered = [...productsData];
 
-    if (categoria) {
+  if (categoria) {
       filtered = filtered.filter(
-        (p) => p.category === categoria
+        (p) => p.category.toLowerCase() === categoria.toLowerCase()
       );
     }
 

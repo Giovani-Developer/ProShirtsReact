@@ -1,132 +1,348 @@
 [
   {
     "id": "1",
-    "name": "Camisa São Paulo III 24 Masculina Torcedor",
+    "name": "Camisa MILAN",
     "price": 90,
-    "image": "/images/spfc.jpeg",
+    "image": "/images/ac milan.png",
     "sizes": ["P", "M", "G", "GG"],
-    "category": "retro"
+    "category": "torcedor"
   },
   {
     "id": "2",
-    "name": "Camisa Inter de Milão Titular 97/98",
+    "name": "Camisa AJAX",
     "price": 150,
-    "image": "/images/spfc.jpeg",
+    "image": "/images/ajax.png",
     "sizes": ["P", "M", "G", "GG"],
-    "category": "retro"
+    "category": "torcedor"
   },
   {
     "id": "3",
-    "name": "Camisa Seleção México 25/26 Masculina",
+    "name": "Camisa AJAX",
     "price": 110,
-    "image": "/images/spfc.jpeg",
+    "image": "/images/ajax2.png",
     "sizes": ["P", "M", "G", "GG"],
-    "category": "retro"
+    "category": "torcedor"
   },
 
   {
   "id": "4",
-  "name": "Camisa Beisebol 25/26",
+  "name": "Camisa ARSENAL",
   "price": 129.90,
-  "image": "/images/spfc.jpeg",
+  "image": "/images/arsenal baseball.png",
   "sizes": ["P", "M", "G", "GG"],
-  "category": "beisebol"
+  "category": "torcedor"
 },
   {
   "id": "5",
-  "name": "Camisa Beisebol 25/26",
+  "name": "Camisa ARSENAL",
   "price": 129.90,
-  "image": "/images/spfc.jpeg",
+  "image": "/images/arsenal.png",
   "sizes": ["P", "M", "G", "GG"],
-  "category": "beisebol"
+  "category": "torcedor"
 },
   {
   "id": "6",
-  "name": "Camisa Beisebol 25/26",
+  "name": "Camisa ATLETICO DE MADRID",
   "price": 129.90,
-  "image": "/images/spfc.jpeg",
+  "image": "/images/atletico de madrid.png",
   "sizes": ["P", "M", "G", "GG"],
-  "category": "beisebol"
+  "category": "torcedor"
 },
   {
   "id": "7",
-  "name": "Camisa Beisebol 25/26",
+  "name": "Camisa ATLETICO MINEIRO - TREINO",
   "price": 129.90,
-  "image": "/images/spfc.jpeg",
+  "image": "/images/atletico mg treino.png",
   "sizes": ["P", "M", "G", "GG"],
-  "category": "beisebol"
+  "category": "torcedor"
 },
   {
   "id": "8",
-  "name": "Camisa Beisebol 25/26",
+  "name": "Camisa ATLETICO MINEIRO",
   "price": 129.90,
-  "image": "/images/spfc.jpeg",
+  "image": "/images/atletico mineiro.png",
   "sizes": ["P", "M", "G", "GG"],
-  "category": "beisebol"
+  "category": "torcedor"
 },
   {
   "id": "9",
-  "name": "Camisa Beisebol 25/26",
+  "name": "Camisa ATLETICO MINEIRO - TREINO",
   "price": 129.90,
-  "image": "/images/spfc.jpeg",
+  "image": "/images/atletico mineiro treino.png",
   "sizes": ["P", "M", "G", "GG"],
-  "category": "beisebol"
+  "category": "torcedor"
 },
   {
   "id": "10",
-  "name": "Camisa Beisebol 25/26",
+  "name": "Camisa BARCELONA ",
   "price": 129.90,
-  "image": "/images/spfc.jpeg",
+  "image": "/images/barcelona laranja.png",
   "sizes": ["P", "M", "G", "GG"],
-  "category": "beisebol"
+  "category": "torcedor"
 },
   {
   "id": "11",
-  "name": "Camisa Beisebol 25/26",
+  "name": "Camisa BAYERN MUNIQUE",
   "price": 129.90,
-  "image": "/images/spfc.jpeg",
+  "image": "/images/bayern munique especial.png",
   "sizes": ["P", "M", "G", "GG"],
-  "category": "beisebol"
+  "category": "torcedor"
 },
   {
   "id": "12",
-  "name": "Camisa Beisebol 25/26",
+  "name": "Camisa BAYERN",
   "price": 129.90,
-  "image": "/images/spfc.jpeg",
+  "image": "/images/bayern.png",
   "sizes": ["P", "M", "G", "GG"],
-  "category": "beisebol"
+  "category": "torcedor"
 },
   {
   "id": "13",
-  "name": "Camisa Beisebol 25/26",
+  "name": "Camisa BOCA JUNIORS",
   "price": 129.90,
-  "image": "/images/spfc.jpeg",
+  "image": "/images/boca juniors.png",
   "sizes": ["P", "M", "G", "GG"],
-  "category": "beisebol"
+  "category": "torcedor"
 },
   {
   "id": "14",
-  "name": "Camisa Beisebol 25/26",
+  "name": "Camisa ATLETICO MINEIRO",
   "price": 129.90,
-  "image": "/images/spfc.jpeg",
+  "image": "/images/cam.png",
   "sizes": ["P", "M", "G", "GG"],
-  "category": "beisebol"
+  "category": "torcedor"
 },
   {
   "id": "15",
-  "name": "Camisa Beisebol 25/26",
+  "name": "Camisa CONJUNTO TREINO FLAMENGO AZUL",
   "price": 129.90,
-  "image": "/images/spfc.jpeg",
+  "image": "/images/conjunto treino flamengo azul.png",
   "sizes": ["P", "M", "G", "GG"],
-  "category": "beisebol"
+  "category": "torcedor"
 },
   {
   "id": "16",
-  "name": "Camisa Beisebol 25/26",
+  "name": "Camisa CONJUNTO TREINO FLAMENGO",
   "price": 129.90,
-  "image": "/images/spfc.jpeg",
+  "image": "/images/conjunto treino flamengo.png",
   "sizes": ["P", "M", "G", "GG"],
-  "category": "beisebol"
+  "category": "torcedor"
+},
+  {
+  "id": "17",
+  "name": "Camisa CRUZEIRO - TREINO",
+  "price": 129.90,
+  "image": "/images/cruzeiro treino.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "18",
+  "name": "Camisa CRUZEIRO",
+  "price": 129.90,
+  "image": "/images/cruzeiro.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "19",
+  "name": "Camisa FIORENTINA",
+  "price": 129.90,
+  "image": "/images/fiorentina.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "20",
+  "name": "Camisa FLAMENGO AZUL POLO",
+  "price": 129.90,
+  "image": "/images/flamengo azul polo.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "21",
+  "name": "Camisa FLAMENGO REGATA AZUL",
+  "price": 129.90,
+  "image": "/images/flamengo regata azul.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "22",
+  "name": "Camisa FLAMENGO REGATA",
+  "price": 129.90,
+  "image": "/images/flamengo regata.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "23",
+  "name": "Camisa FLAMENGO",
+  "price": 129.90,
+  "image": "/images/flamengo.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "24",
+  "name": "Camisa INTER DE MILAO",
+  "price": 129.90,
+  "image": "/images/inter de milao.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "25",
+  "name": "Camisa INTERNACIONAL",
+  "price": 129.90,
+  "image": "/images/internacional.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "26",
+  "name": "Camisa ITALIA",
+  "price": 129.90,
+  "image": "/images/italia.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "27",
+  "name": "Camisa JUVENTUS",
+  "price": 129.90,
+  "image": "/images/juventos.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "28",
+  "name": "Camisa LIVERPOOL",
+  "price": 129.90,
+  "image": "/images/liverpool.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "29",
+  "name": "Camisa MANCHESTER UNITED",
+  "price": 129.90,
+  "image": "/images/manchester united.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "30",
+  "name": "Camisa MILAN - GOLEIRO",
+  "price": 129.90,
+  "image": "/images/milan goleiro.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "31",
+  "name": "Camisa NAPOLI",
+  "price": 129.90,
+  "image": "/images/napoli.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "32",
+  "name": "Camisa NEW CASTLE",
+  "price": 129.90,
+  "image": "/images/new castle.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "33",
+  "name": "Camisa PSG",
+  "price": 129.90,
+  "image": "/images/psg laranja.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "34",
+  "name": "Camisa RACING",
+  "price": 129.90,
+  "image": "/images/racing.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "35",
+  "name": "Camisa RANGERS",
+  "price": 129.90,
+  "image": "/images/rangers terceira.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "36",
+  "name": "Camisa REAL MADRID BASEBALL",
+  "price": 129.90,
+  "image": "/images/real madrid baseball.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "37",
+  "name": "Camisa REAL MADRID - TREINO",
+  "price": 129.90,
+  "image": "/images/real madrid treino.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "38",
+  "name": "Camisa REGATA FLAMENGO",
+  "price": 129.90,
+  "image": "/images/regata flamengo.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "39",
+  "name": "Camisa SANTOS LISTRADA",
+  "price": 129.90,
+  "image": "/images/santos listrada.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "40",
+  "name": "Camisa SANTOS PERSONALIZADA",
+  "price": 129.90,
+  "image": "/images/santos personalizada.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "41",
+  "name": "Camisa SAO PAULO",
+  "price": 129.90,
+  "image": "/images/sao paulo.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "42",
+  "name": "Camisa TIGRES",
+  "price": 129.90,
+  "image": "/images/tigres.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "43",
+  "name": "Camisa WEST HAM",
+  "price": 129.90,
+  "image": "/images/west ham.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
 }
 
 
