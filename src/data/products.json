@@ -343,6 +343,398 @@
   "image": "/images/west ham.png",
   "sizes": ["P", "M", "G", "GG"],
   "category": "torcedor"
+},
+  {
+  "id": "43",
+  "name": "Camisa WEST HAM",
+  "price": 129.90,
+  "image": "/images/west ham.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "44",
+  "name": "Camisa AJAX",
+  "price": 129.90,
+  "image": "/images/ajax3.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "45",
+  "name": "Camisa AL HILAL",
+  "price": 129.90,
+  "image": "/images/al hilal.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "46",
+  "name": "Camisa ALEMANHA",
+  "price": 129.90,
+  "image": "/images/alemanha.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "47",
+  "name": "Camisa ASTON VILLA",
+  "price": 129.90,
+  "image": "/images/aston.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "48",
+  "name": "Camisa ATALANTA",
+  "price": 129.90,
+  "image": "/images/atlanta.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "49",
+  "name": "Camisa ATLETICO DE MADRID",
+  "price": 129.90,
+  "image": "/images/atletico de madrid2.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "50",
+  "name": "Camisa BAHIA",
+  "price": 129.90,
+  "image": "/images/bahia.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "51",
+  "name": "Camisa BARCELONA ",
+  "price": 129.90,
+  "image": "/images/barcelona2.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "52",
+  "name": "Camisa BETIS",
+  "price": 129.90,
+  "image": "/images/betis.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "53",
+  "name": "Camisa BILBAO",
+  "price": 129.90,
+  "image": "/images/bilbao.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "54",
+  "name": "Camisa BORUSSIA DORTMUND",
+  "price": 129.90,
+  "image": "/images/borussia.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "55",
+  "name": "Camisa MANCHESTER CITY",
+  "price": 129.90,
+  "image": "/images/city.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "56",
+  "name": "Camisa COLO COLO",
+  "price": 129.90,
+  "image": "/images/colocolo.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "57",
+  "name": "Camisa COLO COLO - GOLEIRO",
+  "price": 129.90,
+  "image": "/images/colocologoleiro.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "58",
+  "name": "Camisa CONJUNTO TREINO FLAMENGO",
+  "price": 129.90,
+  "image": "/images/conjunto flamengo.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "59",
+  "name": "Camisa COREIA DO SUL",
+  "price": 129.90,
+  "image": "/images/coreia do sul.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "60",
+  "name": "Camisa ESCÓCIA",
+  "price": 129.90,
+  "image": "/images/escocia.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "61",
+  "name": "Camisa FEYENOORD",
+  "price": 129.90,
+  "image": "/images/feyenoord.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "62",
+  "name": "Camisa FLAMENGO GOLEIRO",
+  "price": 129.90,
+  "image": "/images/flamengo goleiro.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "63",
+  "name": "Camisa FLAMENGO GOLEIRO",
+  "price": 129.90,
+  "image": "/images/flamengo goleiro2.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "64",
+  "name": "Camisa FLUMINENSE",
+  "price": 129.90,
+  "image": "/images/fluminense.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "65",
+  "name": "Camisa FRAÇA",
+  "price": 129.90,
+  "image": "/images/franca.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "66",
+  "name": "Camisa INTER DE MILAO",
+  "price": 129.90,
+  "image": "/images/inter de milao2.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "67",
+  "name": "Camisa JUVENTUS",
+  "price": 129.90,
+  "image": "/images/juventos.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "68",
+  "name": "Camisa LAZIO",
+  "price": 129.90,
+  "image": "/images/lazio.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "69",
+  "name": "Camisa LAZIO",
+  "price": 129.90,
+  "image": "/images/lazio2.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "70",
+  "name": "Camisa LIVERPOOL",
+  "price": 129.90,
+  "image": "/images/liverpool2.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "71",
+  "name": "Camisa OLYMPIQUE DE MARSEILLE",
+  "price": 129.90,
+  "image": "/images/marseille.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "72",
+  "name": "Camisa NAPOLI",
+  "price": 129.90,
+  "image": "/images/napoli2.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "73",
+  "name": "Camisa NEW CASTLE",
+  "price": 129.90,
+  "image": "/images/new castle2.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "74",
+  "name": "Camisa PORTO",
+  "price": 129.90,
+  "image": "/images/porto.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "75",
+  "name": "Camisa PSV",
+  "price": 129.90,
+  "image": "/images/psv.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "76",
+  "name": "Camisa PUMAS",
+  "price": 129.90,
+  "image": "/images/pumas.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "77",
+  "name": "Camisa REAL MADRID ",
+  "price": 129.90,
+  "image": "/images/real madrid azul.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "78",
+  "name": "Camisa REAL MADRID ",
+  "price": 129.90,
+  "image": "/images/real madrid.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "79",
+  "name": "Camisa ROMA",
+  "price": 129.90,
+  "image": "/images/roma.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "80",
+  "name": "Camisa SPORTING",
+  "price": 129.90,
+  "image": "/images/sporting.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "81",
+  "name": "Camisa STOKE",
+  "price": 129.90,
+  "image": "/images/stoke.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "82",
+  "name": "Camisa TIGRES",
+  "price": 129.90,
+  "image": "/images/tigres2.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "83",
+  "name": "Camisa TIGRES",
+  "price": 129.90,
+  "image": "/images/tigres3.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "84",
+  "name": "Camisa TOTTENHAM",
+  "price": 129.90,
+  "image": "/images/tottenham.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "85",
+  "name": "Camisa TOTTENHAM",
+  "price": 129.90,
+  "image": "/images/tottenham2.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "86",
+  "name": "Camisa MANCHESTER UNITED",
+  "price": 129.90,
+  "image": "/images/united.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "87",
+  "name": "Camisa MANCHESTER UNITED",
+  "price": 129.90,
+  "image": "/images/united2.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "88",
+  "name": "Camisa VALENCIA",
+  "price": 129.90,
+  "image": "/images/valencia.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "89",
+  "name": "Camisa VALENCIA",
+  "price": 129.90,
+  "image": "/images/valencia2.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "90",
+  "name": "Camisa WEST HAM",
+  "price": 129.90,
+  "image": "/images/west ham2.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
+},
+  {
+  "id": "91",
+  "name": "Camisa WOLVER",
+  "price": 129.90,
+  "image": "/images/wolver.png",
+  "sizes": ["P", "M", "G", "GG"],
+  "category": "torcedor"
 }
 
 

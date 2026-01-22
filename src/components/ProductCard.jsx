@@ -7,6 +7,7 @@ export default function ProductCard({ product }) {
   return (
     <motion.div
       className="product-card"
+      whileHover={{ y: -6 }}
       transition={{ duration: 0.25 }}
     >
       <div className="image-wrapper">
@@ -15,26 +16,16 @@ export default function ProductCard({ product }) {
         <div className="overlay">
           <Link to={`/produto/${product.id}`} className="details-btn">
             Ver detalhes
-            
           </Link>
-          
         </div>
       </div>
-      
 
       <h3>{product.name}</h3>
       <span className="price">R$ {product.price.toFixed(2)}</span>
-      <Link to={`/produto/${product.id}`} className="product-card">
-        <img src={product.image} alt={product.name} />
-
-      <div className="info">
-        <h3>{product.name}</h3>
-        <span className="price">R$ {product.price.toFixed(2)}</span>
-      </div>
-      </Link>
     </motion.div>
   );
 }
+
 
 ProductCard.propTypes = {
   product: PropTypes.shape({
