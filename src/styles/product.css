@@ -3,13 +3,13 @@
 ========================= */
 
 .products-section {
-  width: 100%;
+  max-width: 10%;
   padding: 20px 0 60px;
 }
 
 .product-h2 {
   text-align: center;
-  font-size: 45px;
+  font-size: 35px;
   font-weight: 800;
   margin-bottom: 40px;
   padding: 20px;
@@ -21,7 +21,7 @@
 ========================= */
 
 .grid {
-  max-width: 1200px;
+  max-width: 600px;
   margin: 0 auto;
   padding: 0 24px;
   display: grid;
@@ -34,11 +34,11 @@
 ========================= */
 
 .product-card {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: transform 1s ease, box-shadow 0.5s ease;
 }
 
 .product-card:hover {
-  transform: translateY(-6px) scale(1.02);
+  transform: translateY(-9px) scale(1.02);
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
 }
 
@@ -59,7 +59,7 @@
 
 .product-card h3 {
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 700;
   color: #000;
   margin-bottom: 6px;
   min-height: 38px;
@@ -93,7 +93,7 @@
   width: 100%;
   max-height: 520px;
   object-fit: contain;
-  border: 1px solid #e0e0e0;
+  border: 2px solid #000000;
   padding: 20px;
 }
 
@@ -144,7 +144,7 @@
 
 .size-options button:hover {
   background-color: #000;
-  color: #fff;
+  color: #000bd7;
 }
 
 .size-options button.active {
