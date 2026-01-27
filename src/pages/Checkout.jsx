@@ -37,7 +37,7 @@ ${itemsMessage}%0A
 Total: R$ ${total.toFixed(2)}
     `;
 
-    const phone = "5519999295741"; // <-- COLOQUE SEU NÚMERO AQUI
+    const phone = "5519998145648"; // <-- COLOQUE SEU NÚMERO AQUI
     const url = `https://wa.me/${phone}?text=${message}`;
 
     window.open(url, "_blank");
