@@ -43,3 +43,13 @@
     font-size: 14px;
   }
 }
+@media (max-width: 768px) {
+
+  .banner,
+  .banner img,
+  .benefits,
+  .benefits * {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+}

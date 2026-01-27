@@ -76,7 +76,7 @@ const handleSearch = (e) => {
         <div className="header-right">
           <span className="account-icon">
             <img
-              src="/public/icons/account.webp"
+              src="/icons/account.webp"
               alt="Conta"
               style={{ width: 22 }}
             />
@@ -84,7 +84,7 @@ const handleSearch = (e) => {
 
           <Link to="/cart" className="cart-icon">
             <img
-              src="/public/icons/cart.jpg"
+              src="/icons/cart.jpg"
               alt="Carrinho"
               style={{ width: 22 }}
             />

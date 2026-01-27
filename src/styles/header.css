@@ -212,3 +212,43 @@
   border-radius: 4px;
   border: 1px solid #ccc;
 }
+
+/* =========================
+   MOBILE HEADER FIX
+========================= */
+
+@media (max-width: 768px) {
+
+  .main-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 12px;
+  }
+
+  .header-left {
+    gap: 10px;
+  }
+
+  .logo {
+    height: 36px;
+  }
+
+  .header-right {
+    gap: 12px;
+  }
+
+  .account-icon img,
+  .cart-icon img {
+    height: 26px;
+    width: auto;
+  }
+
+  .cart-count {
+    top: -4px;
+    right: -6px;
+    font-size: 10px;
+    padding: 1px 5px;
+  }
+}
+
