@@ -156,6 +156,10 @@
     display: none;
   }
 
+  .menu-btn {
+    color: #000000;
+  }
+
   .desktop-menu {
     display: none;
   }

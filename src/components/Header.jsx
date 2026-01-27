@@ -7,7 +7,6 @@ export default function Header() {
   const [cartCount, setCartCount] = useState(0);
   const [menuOpen, setMenuOpen] = useState(false);
   const [search, setSearch] = useState("");
-
   const location = useLocation();
   const navigate = useNavigate();
 
@@ -22,6 +21,7 @@ export default function Header() {
     const cart = JSON.parse(localStorage.getItem("cart")) || [];
     setCartCount(cart.length);
   }, [location]);
+
 
 const handleSearch = (e) => {
   if (e.key === "Enter") {
@@ -55,11 +55,13 @@ const handleSearch = (e) => {
             ☰
           </button>
 
-          <img
-            className="logo"
-            src="/images/logo.jpeg"
-            alt="Logo"
-          />
+          <Link to="/">
+            <img        
+              className="logo"
+              src="/images/logo.jpeg"
+              alt="Logo"
+            />
+            </Link>
         </div>
 
         {/* BUSCA DESKTOP */}
