@@ -1,10 +1,7 @@
-/* =========================
-   SEÇÃO DE PRODUTOS
-========================= */
-
+/* ========================= SEÇÃO DE PRODUTOS ========================= */
 .products-section {
-  max-width: 10%;
-  padding: 20px 0 60px;
+  width: 100%;
+  padding: 0;
 }
 
 .product-h2 {
@@ -16,23 +13,17 @@
   padding-bottom: 20px;
 }
 
-/* =========================
-   GRID DE PRODUTOS
-========================= */
-
+/* ========================= GRID DE PRODUTOS ========================= */
 .grid {
-  max-width: 600px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 0 24px;
   display: grid;
-  grid-template-columns: repeat(3, minmax(220px, 1fr));
+  grid-template-columns: repeat(4, minmax(220px, 1fr));
   gap: 28px;
 }
 
-/* =========================
-   CARD DO PRODUTO
-========================= */
-
+/* ========================= CARD DO PRODUTO ========================= */
 .product-card {
   transition: transform 1s ease, box-shadow 0.5s ease;
 }
@@ -42,10 +33,7 @@
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
 }
 
-/* =========================
-   IMAGEM DO PRODUTO
-========================= */
-
+/* ========================= IMAGEM DO PRODUTO ========================= */
 .product-card img {
   width: 100%;
   height: 260px;
@@ -53,10 +41,7 @@
   margin-bottom: 10px;
 }
 
-/* =========================
-   NOME DO PRODUTO
-========================= */
-
+/* ========================= NOME DO PRODUTO ========================= */
 .product-card h3 {
   font-size: 14px;
   font-weight: 700;
@@ -65,21 +50,14 @@
   min-height: 38px;
 }
 
-
-/* =========================
-   PREÇO
-========================= */
-
+/* ========================= PREÇO ========================= */
 .product-card p {
   font-size: 16px;
   font-weight: bold;
   color: #000;
 }
 
-/* =========================
-   PÁGINA DE DETALHES
-========================= */
-
+/* ========================= PÁGINA DE DETALHES ========================= */
 .product-details {
   max-width: 1200px;
   margin: 60px auto;
@@ -97,10 +75,7 @@
   padding: 20px;
 }
 
-/* =========================
-   INFORMAÇÕES
-========================= */
-
+/* ========================= INFORMAÇÕES ========================= */
 .details-info {
   display: flex;
   flex-direction: column;
@@ -118,10 +93,7 @@
   margin-bottom: 24px;
 }
 
-/* =========================
-   TAMANHOS
-========================= */
-
+/* ========================= TAMANHOS ========================= */
 .sizes span {
   font-size: 14px;
   font-weight: 500;
@@ -152,10 +124,7 @@
   color: #fff;
 }
 
-/* =========================
-   BOTÃO CARRINHO
-========================= */
-
+/* ========================= BOTÃO CARRINHO ========================= */
 .add-to-cart {
   padding: 16px;
   background-color: #000;
@@ -231,6 +200,7 @@
   font-size: 17px;
   font-weight: bold;
 }
+
 /* BOTÃO */
 .details-btn {
   background: #fff;
@@ -254,13 +224,7 @@
   margin-bottom: 6px;
 }
 
-
-
-
-/* =========================
-   RESPONSIVO
-========================= */
-
+/* ========================= RESPONSIVO ========================= */
 @media (max-width: 768px) {
   .product-details {
     grid-template-columns: 1fr;
@@ -280,18 +244,53 @@
   }
 }
 
-
-/* =========================
-   RESPONSIVO
-========================= */
-
+/* ========================= RESPONSIVO ========================= */
 @media (max-width: 768px) {
-
-  .view-btn{
+  .view-btn {
     opacity: 1;
     position: static;
     transform: none;
     margin-top: 10px;
     display: inline block;
+  }
+}
+
+/* =========================
+   MOBILE — AJUSTE FINO
+========================= */
+
+@media (max-width: 768px) {
+
+  /* remove folga lateral */
+  .grid {
+    max-width: 100%;
+    padding: 0 12px;
+    gap: 14px;
+
+    /* 2 colunas perfeitas no mobile */
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  /* imagens não estouram */
+  .product-card img,
+  .image-wrapper img {
+    height: 180px;
+  }
+
+  /* título mais compacto */
+  .product-h2 {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+
+  /* texto mais equilibrado */
+  .product-card h3 {
+    font-size: 13px;
+    min-height: auto;
+  }
+
+  .product-card p,
+  .price {
+    font-size: 14px;
   }
 }

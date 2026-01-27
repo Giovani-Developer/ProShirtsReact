@@ -13,6 +13,10 @@
   margin-bottom: 32px;
 }
 
+.cart-size {
+  max-width: 30px;
+}
+
 /* =========================
    ITEM DO CARRINHO
 ========================= */
@@ -32,6 +36,8 @@
   border: 1px solid #e0e0e0;
   padding: 10px;
 }
+
+
 
 /* =========================
    INFO

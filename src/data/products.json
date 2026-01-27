@@ -708,7 +708,7 @@
   "id": "89",
   "name": "Camisa VALENCIA",
   "price": 110,
-  "image": "/images/valezncia.png",
+  "image": "/images/valencia.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
   "category": "torcedor"
 },

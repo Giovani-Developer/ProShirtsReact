@@ -42,51 +42,27 @@ const handleSearch = (e) => {
   const closeMenu = () => setMenuOpen(false);
 
   return (
-    <>
-      <header className="header">
-        <div className="top-bar">OFERTAS COM DESCONTO NAS DATAS DUPLAS</div>
+  <>
+    <header className="header">
+      <div className="top-bar">
+        OFERTAS COM DESCONTO NAS DATAS DUPLAS
+      </div>
 
-        <div className="main-header">
-          <div className="left">
-            <button className="menu-btn" onClick={() => setMenuOpen(true)}>
-              ☰
-            </button>
-            <img className="logo" src="/images/logo.jpeg" alt="" />
-          </div>
+      <div className="main-header">
+        {/* ESQUERDA */}
+        <div className="header-left">
+          <button className="menu-btn" onClick={() => setMenuOpen(true)}>
+            ☰
+          </button>
 
-        
-          <div className="icons">
-            <span>👤</span>
-            <span>❤️</span>
-
-            <motion.div
-              animate={{ scale: [1, 2.3, 1] }}
-              transition={{ duration: 1.3 }}
-            >
-
-            <Link to="/cart" className="cart-icon">
-              🛒
-              {cartCount > 0 && <span className="cart-count">{cartCount}</span>}
-            </Link>
-            </motion.div>
-          </div> 
+          <img
+            className="logo"
+            src="/images/logo.jpeg"
+            alt="Logo"
+          />
         </div>
-        
 
-        <nav className="menu desktop-menu">
-          <Link to="/" onClick={closeMenu}>
-            Toda a loja
-          </Link>
-          <Link to="/?categoria=torcedor" onClick={closeMenu}>
-            Torcedor 25/26
-          </Link>
-          <Link to="/?categoria=jogador" onClick={closeMenu}>
-            Jogador
-          </Link>
-          <Link to="/?categoria=retro" onClick={closeMenu}>
-            Retro
-          </Link>
-                  {/* SEARCH */}
+        {/* BUSCA DESKTOP */}
         <input
           className="search-desktop"
           type="text"
@@ -95,52 +71,89 @@ const handleSearch = (e) => {
           onChange={(e) => setSearch(e.target.value)}
           onKeyDown={handleSearch}
         />
-          
-        </nav>
-      </header>
 
-      {/* OVERLAY MOBILE */}
-      {menuOpen && (
-        <div className="mobile-overlay" onClick={closeMenu}>
-          <aside className="mobile-menu" onClick={(e) => e.stopPropagation()}>
-            <button className="close-btn" onClick={closeMenu}>
-              ✕
-            </button>
-
-            <input
-              className="search-mobile"
-              type="text"
-              placeholder="Buscar produto..."
-              value={search}
-              onChange={(e) => setSearch(e.target.value)}
-              onKeyDown={handleSearch}
+        {/* DIREITA */}
+        <div className="header-right">
+          <span className="account-icon">
+            <img
+              src="/public/icons/account.webp"
+              alt="Conta"
+              style={{ width: 22 }}
             />
-            
+          </span>
 
-            <motion.nav
-              initial={{ x: "-100%" }}
-              animate={{ x: 0 }}
-              exit={{ x: "-100%" }}
-              transition={{ type: "spring", stiffness: 260 }}
-            >
-              <nav>
-                <Link to="/" onClick={closeMenu}>
-                  Toda a loja
-                </Link>
-                <Link to="/?categoria=torcedor" onClick={closeMenu}>
-                  Torcedor 25/26
-                </Link>
-                <Link to="/?categoria=jogador" onClick={closeMenu}>
-                  Jogador
-                </Link>
-                <Link to="/?categoria=retro" onClick={closeMenu}>
-                  Retro
-                </Link>
-              </nav>
-            </motion.nav>
-          </aside>
+          <Link to="/cart" className="cart-icon">
+            <img
+              src="/public/icons/cart.jpg"
+              alt="Carrinho"
+              style={{ width: 22 }}
+            />
+
+            {cartCount > 0 && (
+              <span className="cart-count">{cartCount}</span>
+            )}
+          </Link>
         </div>
-      )}
-    </>
-  );
+      </div>
+
+      {/* MENU DESKTOP */}
+      <nav className="desktop-menu">
+        <Link to="/" onClick={closeMenu}>Toda a loja</Link>
+        <Link to="/?categoria=torcedor" onClick={closeMenu}>
+          Torcedor 25/26
+        </Link>
+        <Link to="/?categoria=jogador" onClick={closeMenu}>
+          Jogador
+        </Link>
+        <Link to="/?categoria=retro" onClick={closeMenu}>
+          Retro
+        </Link>
+      </nav>
+    </header>
+
+    {/* OVERLAY MOBILE */}
+    {menuOpen && (
+      <div className="mobile-overlay" onClick={closeMenu}>
+        <aside
+          className="mobile-menu"
+          onClick={(e) => e.stopPropagation()}
+        >
+          <button className="close-btn" onClick={closeMenu}>
+            ✕
+          </button>
+
+          <input
+            className="search-mobile"
+            type="text"
+            placeholder="Buscar produto..."
+            value={search}
+            onChange={(e) => setSearch(e.target.value)}
+            onKeyDown={handleSearch}
+          />
+
+          <motion.nav
+            initial={{ x: "-100%" }}
+            animate={{ x: 0 }}
+            exit={{ x: "-100%" }}
+            transition={{ type: "spring", stiffness: 260 }}
+          >
+            <nav>
+              <Link to="/" onClick={closeMenu}>Toda a loja</Link>
+              <Link to="/?categoria=torcedor" onClick={closeMenu}>
+                Torcedor 25/26
+              </Link>
+              <Link to="/?categoria=jogador" onClick={closeMenu}>
+                Jogador
+              </Link>
+              <Link to="/?categoria=retro" onClick={closeMenu}>
+                Retro
+              </Link>
+            </nav>
+          </motion.nav>
+        </aside>
+      </div>
+    )}
+  </>
+);
+
 }

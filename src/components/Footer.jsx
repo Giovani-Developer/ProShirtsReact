@@ -33,6 +33,8 @@ export default function Footer() {
 
       <div className="footer-bottom">
         <p>© 2026 ProShirts   - Todos os direitos reservados</p>
+        <p>CNPJ: 64.035.985/0001-73</p>
+        <p>CPF: 444.442.198-31</p>
       </div>
     </footer>
   );
