@@ -1019,7 +1019,7 @@
   {
   "id": "128",
   "name": "Camisa PALMEIRAS",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/palmeiras.png",
   "sizes": ["P", "M", "G", "GG"],
   "category": "jogador"
@@ -1027,7 +1027,7 @@
   {
   "id": "129",
   "name": "Camisa AJAX",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/ajax.png",
   "sizes": ["P", "M", "G"],
   "category": "jogador"
@@ -1035,7 +1035,7 @@
   {
   "id": "130",
   "name": "Camisa ARGENTINA",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/argentina.png",
   "sizes": ["P", "M"],
   "category": "jogador"
@@ -1043,7 +1043,7 @@
   {
   "id": "131",
   "name": "Camisa ARGENTINA",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/argentina2.png",
   "sizes": ["P"],
   "category": "jogador"
@@ -1051,7 +1051,7 @@
   {
   "id": "132",
   "name": "Camisa BARÇELONA TRAVIS SCOTT",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/barca travis.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
@@ -1059,7 +1059,7 @@
   {
   "id": "133",
   "name": "Camisa BARCELONA ",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/barca.png",
   "sizes": [ "M", "G", "GG"],
   "category": "jogador"
@@ -1067,7 +1067,7 @@
   {
   "id": "134",
   "name": "Camisa BARCELONA ",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/barca2.png",
   "sizes": ["P", "M", "G", "GG"],
   "category": "jogador"
@@ -1075,7 +1075,7 @@
   {
   "id": "135",
   "name": "Camisa BRASIL",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/brasil.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
@@ -1083,7 +1083,7 @@
   {
   "id": "136",
   "name": "Camisa BRASIL",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/brasil2.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
@@ -1091,7 +1091,7 @@
   {
   "id": "137",
   "name": "Camisa BRASIL",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/brasil3.png",
   "sizes": ["P", "M"],
   "category": "jogador"
@@ -1099,7 +1099,7 @@
   {
   "id": "138",
   "name": "Camisa BRASIL",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/brasil4.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
@@ -1107,7 +1107,7 @@
   {
   "id": "139",
   "name": "Camisa BRASIL",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/brasil5.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
@@ -1115,7 +1115,7 @@
   {
   "id": "140",
   "name": "Camisa CHELSEA",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/chelsea.png",
   "sizes": [ "M", "G", "GG"],
   "category": "jogador"
@@ -1123,7 +1123,7 @@
   {
   "id": "141",
   "name": "Camisa CORINTHIANS",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/corinthians.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
@@ -1131,7 +1131,7 @@
   {
   "id": "142",
   "name": "Camisa FORTALEZA",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/fortaleza.png",
   "sizes": ["P"],
   "category": "jogador"
@@ -1139,7 +1139,7 @@
   {
   "id": "143",
   "name": "Camisa FRANÇA",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/franca.png",
   "sizes": ["P", "M", "G", "GG"],
   "category": "jogador"
@@ -1147,7 +1147,7 @@
   {
   "id": "144",
   "name": "Camisa JUVENTUS",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/juventus.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
@@ -1155,7 +1155,7 @@
   {
   "id": "145",
   "name": "Camisa REAL MADRID ",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/madrid.png",
   "sizes": ["P", "M", "G", "GG"],
   "category": "jogador"
@@ -1163,7 +1163,7 @@
   {
   "id": "146",
   "name": "Camisa MILAN",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/milan.png",
   "sizes": ["P", "M", "G"],
   "category": "jogador"
@@ -1171,7 +1171,7 @@
   {
   "id": "147",
   "name": "Camisa INTER DE MILAO",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/milao.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
@@ -1179,7 +1179,7 @@
   {
   "id": "148",
   "name": "Camisa INTER DE MILAO",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/milao2.png",
   "sizes": ["P", "M", "G", "GG"],
   "category": "jogador"
@@ -1187,7 +1187,7 @@
   {
   "id": "149",
   "name": "Camisa PALMEIRAS",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/palmeiras.png",
   "sizes": ["P", "M", "G", "GG"],
   "category": "jogador"
@@ -1195,7 +1195,7 @@
   {
   "id": "150",
   "name": "Camisa PALMEIRAS",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/palmeiras2.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
@@ -1203,7 +1203,7 @@
   {
   "id": "151",
   "name": "Camisa PSG",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/psg.png",
   "sizes": ["P", "M", "G", "GG"],
   "category": "jogador"
@@ -1211,7 +1211,7 @@
   {
   "id": "152",
   "name": "Camisa REAL MADRID ",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/real madrid.png",
   "sizes": [ "M", "G", "GG"],
   "category": "jogador"
@@ -1219,7 +1219,7 @@
   {
   "id": "153",
   "name": "Camisa REAL MADRID",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/real madrid2.png",
   "sizes": ["GG","2XL"],
   "category": "jogador"
@@ -1227,7 +1227,7 @@
   {
   "id": "154",
   "name": "Camisa SANTOS LISTRADA",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/santos.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
@@ -1235,7 +1235,7 @@
   {
   "id": "155",
   "name": "Camisa SÃO PAULO",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/sp.png",
   "sizes": ["P", "M", "G", "GG"],
   "category": "jogador"
@@ -1243,7 +1243,7 @@
   {
   "id": "156",
   "name": "Camisa SÃO PAULO",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/sp2.png",
   "sizes": ["M"],
   "category": "jogador"
@@ -1251,9 +1251,251 @@
   {
   "id": "157",
   "name": "Camisa MANCHESTER UNITED",
-  "price": 110,
+  "price": 140,
   "image": "/images/jogador/united.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
+}
+
+,
+  {
+  "id": "158",
+  "name": "Camisa Barcelona I 1996/1997 Retrô Vermelha/Azul",
+  "price": 150,
+  "image": "/images/retro/barca.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "159",
+  "name": "Camisa do Brasil 2002 Retrô RONALDINHO 11",
+  "price": 150,
+  "image": "/images/retro/brasil 02.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "160",
+  "name": "Camisa Brasil Retrô I 2004/2005 RONALDO 9",
+  "price": 150,
+  "image": "/images/retro/brasil 04.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "161",
+  "name": "Camisa Seleção Brasileira Retrô 1993/1994 Amarela",
+  "price": 150,
+  "image": "/images/retro/brasil 94.png",
+  "sizes": ["P"],
+  "category": "retro"
+},
+  {
+  "id": "162",
+  "name": "Camisa do Brasil Amarela 1998 Jogador",
+  "price": 150,
+  "image": "/images/retro/brasil 98 amarela.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "163",
+  "name": "Camisa do Brasil 1998 Azul Jogador",
+  "price": 150,
+  "image": "/images/retro/brasil 98 azul.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "164",
+  "name": "Camisa Retrô Seleção Brasil 1998/98",
+  "price": 150,
+  "image": "/images/retro/brasil 98.png",
+  "sizes": ["P", "M", "G", "GG", "2XL", "3XL", "4XL"],
+  "category": "retro"
+},
+  {
+  "id": "165",
+  "name": "Camisa Brasil retrô 1998 RONALDO 9",
+  "price": 150,
+  "image": "/images/retro/brasil r9.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "166",
+  "name": "Camisa do Brasil Retrô 2002 KAKÁ 8",
+  "price": 150,
+  "image": "/images/retro/brasil.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "167",
+  "name": "Camisa do Brasil 2004/2005 Retrô RONALDO 9",
+  "price": 150,
+  "image": "/images/retro/brasil2 04.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "168",
+  "name": "Camisa do Brasil Retrô 1998",
+  "price": 150,
+  "image": "/images/retro/brasil2 98.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "169",
+  "name": "Camisa do Brasil 2004/2005 Retrô RONALDINHO 10",
+  "price": 150,
+  "image": "/images/retro/brasil2 0405.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "170",
+  "name": "CAMISA CHELSEA RETRÔ HOME 2008/2009 TORCEDOR MASCULINA - AZUL",
+  "price": 150,
+  "image": "/images/retro/chelsea.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "171",
+  "name": "Retrô Camisa Corinthians 99/00 - Torcedor Topper - Branca",
+  "price": 150,
+  "image": "/images/retro/corinthians.png",
+  "sizes": ["P"],
+  "category": "retro"
+},
+  {
+  "id": "172",
+  "name": "Camisa Flamengo I 2008/2009 Retro - PERSONALIZADA (ADRIANO 10)",
+  "price": 150,
+  "image": "/images/retro/flamengo adriano.png",
+  "sizes": ["P"],
+  "category": "retro"
+},
+  {
+  "id": "173",
+  "name": "Camisa França Away (2) 1998 Retrô Masculina",
+  "price": 150,
+  "image": "/images/retro/franca.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "174",
+  "name": "Camisa Retrô Legend - França 2006- Zidane 10",
+  "price": 150,
+  "image": "/images/retro/franca2.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "175",
+  "name": "Camiseta Retrô Da França 1998- Zidane 10 ",
+  "price": 150,
+  "image": "/images/retro/franca3.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "176",
+  "name": "Camisa Retro Liverpool - 2007/2008 ",
+  "price": 150,
+  "image": "/images/retro/liverpool.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "177",
+  "name": "Camisa Retrô Real Madrid 2006/07 Home - Branco ",
+  "price": 150,
+  "image": "/images/retro/madrid.png",
+  "sizes": ["P", "M"],
+  "category": "retro"
+},
+  {
+  "id": "178",
+  "name": "Camisa Retro AC Milan 2006/2007",
+  "price": 150,
+  "image": "/images/retro/milan.png",
+  "sizes": ["P", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "179",
+  "name": "Camisa Inter de Milão 97/98 Away Retrô",
+  "price": 150,
+  "image": "/images/retro/milao.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "180",
+  "name": "Camisa Inter de Milão Titular 97/98 ",
+  "price": 150,
+  "image": "/images/retro/milao2.png",
+  "sizes": ["P", "M"],
+  "category": "retro"
+},
+  {
+  "id": "181",
+  "name": "Camisa Retro Real Madrid - 11/12",
+  "price": 150,
+  "image": "/images/retro/real madrid.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "182",
+  "name": "Camisa Retrô Manchester United 96/97 Away - Azul",
+  "price": 150,
+  "image": "/images/retro/united.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "183",
+  "name": "Camisa Retrô Manchester United Edição Final da Champions League 07/08",
+  "price": 150,
+  "image": "/images/retro/united2.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "184",
+  "name": "Camisa Retrô do Manchester United 2007/2008",
+  "price": 150,
+  "image": "/images/retro/united3.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "185",
+  "name": "Camisa Manchester United Retro 2001/02 II Branca e Preta Umbro Dupla face",
+  "price": 150,
+  "image": "/images/retro/united4.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "186",
+  "name": "Camisa Manchester United Home Retrô 1996 Torcedor Masculina - Vermelho",
+  "price": 150,
+  "image": "/images/retro/united5.png",
+  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "category": "retro"
+},
+  {
+  "id": "187",
+  "name": "Camisa Kappa Vasco I Retrô 1974",
+  "price": 150,
+  "image": "/images/retro/vasco.png",
+  "sizes": ["M"],
+  "category": "retro"
 }
 ]
