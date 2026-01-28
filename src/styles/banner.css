@@ -3,12 +3,17 @@
 ========================= */
 
 .banner {
-  width: 90%;
-  height: 260px;
-  background-color: #000000;
-  position: relative;
+  width: 100%;
   overflow: hidden;
 }
+
+.banner-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+
 
 /* =========================
    IMAGEM DO BANNER
@@ -45,7 +50,9 @@
 }
 @media (max-width: 768px) {
 
-  .banner,
+  .banner{
+    height: auto;
+  }
   .banner img,
   .benefits,
   .benefits * {
@@ -56,6 +63,14 @@
 /* MOBILE */
 @media (max-width: 768px) {
   .banner-img {
-    content: url("/public/icons/banner.jpeg");
+    content: url("\public\images\banner.png");
+  }
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+  .banner-image {
+    object-fit: contain;   /* 🔥 tira o zoom */
+    height: auto;
   }
 }
