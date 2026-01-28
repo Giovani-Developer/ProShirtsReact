@@ -1018,7 +1018,7 @@
 },
   {
   "id": "128",
-  "name": "Camisa PALMEIRAS",
+  "name": "Camisa do Palmeiras 25/26 Jogador",
   "price": 140,
   "image": "/images/jogador/palmeiras.png",
   "sizes": ["P", "M", "G", "GG"],
@@ -1026,7 +1026,7 @@
 },
   {
   "id": "129",
-  "name": "Camisa AJAX",
+  "name": "CAMISA TITULAR AJAX 2025/2026 JOGADOR",
   "price": 140,
   "image": "/images/jogador/ajax.png",
   "sizes": ["P", "M", "G"],
@@ -1034,7 +1034,7 @@
 },
   {
   "id": "130",
-  "name": "Camisa ARGENTINA",
+  "name": "Camisa Seleção Argentina Edição 50 anos 25/26 - Masculina",
   "price": 140,
   "image": "/images/jogador/argentina.png",
   "sizes": ["P", "M"],
@@ -1042,7 +1042,7 @@
 },
   {
   "id": "131",
-  "name": "Camisa ARGENTINA",
+  "name": "Camisa Argentina Edição Especial 2025 Jogador Masculina",
   "price": 140,
   "image": "/images/jogador/argentina2.png",
   "sizes": ["P"],
@@ -1050,7 +1050,7 @@
 },
   {
   "id": "132",
-  "name": "Camisa BARÇELONA TRAVIS SCOTT",
+  "name": "Camisa Barcelona Travis Scott 25/25 Jogador",
   "price": 140,
   "image": "/images/jogador/barca travis.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
@@ -1058,7 +1058,7 @@
 },
   {
   "id": "133",
-  "name": "Camisa BARCELONA ",
+  "name": "Camisa Barcelona Away Versão Jogador 2025/2026 ? Nike Edição Kobe Briant ? Bege",
   "price": 140,
   "image": "/images/jogador/barca.png",
   "sizes": [ "M", "G", "GG"],
@@ -1066,7 +1066,7 @@
 },
   {
   "id": "134",
-  "name": "Camisa BARCELONA ",
+  "name": "Camisa Barcelona 125º Aniversário - Jogador",
   "price": 140,
   "image": "/images/jogador/barca2.png",
   "sizes": ["P", "M", "G", "GG"],
@@ -1074,7 +1074,7 @@
 },
   {
   "id": "135",
-  "name": "Camisa BRASIL",
+  "name": "Camisa do Brasil 1998 Azul Jogador",
   "price": 140,
   "image": "/images/jogador/brasil.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
@@ -1082,7 +1082,7 @@
 },
   {
   "id": "136",
-  "name": "Camisa BRASIL",
+  "name": "Camisa do Brasil Amarela 1998 Jogador",
   "price": 140,
   "image": "/images/jogador/brasil2.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
@@ -1090,7 +1090,7 @@
 },
   {
   "id": "137",
-  "name": "Camisa BRASIL",
+  "name": "Camisa do Brasil Jogador 26/27",
   "price": 140,
   "image": "/images/jogador/brasil3.png",
   "sizes": ["P", "M"],
@@ -1098,7 +1098,7 @@
 },
   {
   "id": "138",
-  "name": "Camisa BRASIL",
+  "name": "Camisa Seleção Brasil II Azul 25/26 (VAI COM AS ESTRELAS NO ESCUDO) Versão jogador",
   "price": 140,
   "image": "/images/jogador/brasil4.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
@@ -1106,7 +1106,7 @@
 },
   {
   "id": "139",
-  "name": "Camisa BRASIL",
+  "name": "Camisa Seleção Brasil 25/26 (ALGUNS MODELOS VAI COM ESTRELAS E OUTRAS SE",
   "price": 140,
   "image": "/images/jogador/brasil5.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
@@ -1114,7 +1114,7 @@
 },
   {
   "id": "140",
-  "name": "Camisa CHELSEA",
+  "name": "Camisa Chelsea I 25/26 - Azul - Masculina Jogador",
   "price": 140,
   "image": "/images/jogador/chelsea.png",
   "sizes": [ "M", "G", "GG"],
@@ -1122,7 +1122,7 @@
 },
   {
   "id": "141",
-  "name": "Camisa CORINTHIANS",
+  "name": "Camisa do Corinthians 2025/26 Laranja Jogador",
   "price": 140,
   "image": "/images/jogador/corinthians.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
@@ -1130,7 +1130,7 @@
 },
   {
   "id": "142",
-  "name": "Camisa FORTALEZA",
+  "name": "Camisa Fortaleza Oficial 1 2024 Feminino Jogador",
   "price": 140,
   "image": "/images/jogador/fortaleza.png",
   "sizes": ["P"],
@@ -1138,7 +1138,7 @@
 },
   {
   "id": "143",
-  "name": "Camisa FRANÇA",
+  "name": "Camisa Oficial da França 25/26 - Versão Jogador",
   "price": 140,
   "image": "/images/jogador/franca.png",
   "sizes": ["P", "M", "G", "GG"],
@@ -1146,7 +1146,7 @@
 },
   {
   "id": "144",
-  "name": "Camisa JUVENTUS",
+  "name": "Camisa do Juventus Jogador 25/26",
   "price": 140,
   "image": "/images/jogador/juventus.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
@@ -1154,7 +1154,7 @@
 },
   {
   "id": "145",
-  "name": "Camisa REAL MADRID ",
+  "name": "Camisa Real Madrid II Jogador - 25/26",
   "price": 140,
   "image": "/images/jogador/madrid.png",
   "sizes": ["P", "M", "G", "GG"],
@@ -1162,7 +1162,7 @@
 },
   {
   "id": "146",
-  "name": "Camisa MILAN",
+  "name": "Camisa do Milan 25/26 Jogador",
   "price": 140,
   "image": "/images/jogador/milan.png",
   "sizes": ["P", "M", "G"],
@@ -1170,7 +1170,7 @@
 },
   {
   "id": "147",
-  "name": "Camisa INTER DE MILAO",
+  "name": "CAMISA INTER DE MILÃO II - 25/26 - VERSÃO JOGADOR",
   "price": 140,
   "image": "/images/jogador/milao.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
@@ -1178,7 +1178,7 @@
 },
   {
   "id": "148",
-  "name": "Camisa INTER DE MILAO",
+  "name": "Camisa Inter de Milão Jogador 2025/26 (COM PATROCINIO - BETSSON.SPORT) Obs: algumas vem com patrocínio azul, outras com patrocínio branco",
   "price": 140,
   "image": "/images/jogador/milao2.png",
   "sizes": ["P", "M", "G", "GG"],
@@ -1186,7 +1186,7 @@
 },
   {
   "id": "149",
-  "name": "Camisa PALMEIRAS",
+  "name": "Camisa do Palmeiras 25/26 Jogador",
   "price": 140,
   "image": "/images/jogador/palmeiras.png",
   "sizes": ["P", "M", "G", "GG"],
@@ -1194,7 +1194,7 @@
 },
   {
   "id": "150",
-  "name": "Camisa PALMEIRAS",
+  "name": "Camisa do Palmeiras 25/26 Jogador",
   "price": 140,
   "image": "/images/jogador/palmeiras2.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
@@ -1202,7 +1202,7 @@
 },
   {
   "id": "151",
-  "name": "Camisa PSG",
+  "name": "Camisa PSG Jogador - 25/26",
   "price": 140,
   "image": "/images/jogador/psg.png",
   "sizes": ["P", "M", "G", "GG"],
@@ -1210,7 +1210,7 @@
 },
   {
   "id": "152",
-  "name": "Camisa REAL MADRID ",
+  "name": "Camisa do Real Madrid Edição Especial 25/26 Jogador",
   "price": 140,
   "image": "/images/jogador/real madrid.png",
   "sizes": [ "M", "G", "GG"],
@@ -1218,7 +1218,7 @@
 },
   {
   "id": "153",
-  "name": "Camisa REAL MADRID",
+  "name": "Camisa do Real Madrid 25/26 Jogador",
   "price": 140,
   "image": "/images/jogador/real madrid2.png",
   "sizes": ["GG","2XL"],
@@ -1226,7 +1226,7 @@
 },
   {
   "id": "154",
-  "name": "Camisa SANTOS LISTRADA",
+  "name": "Camisa do Santos Listrada 25/26 Versão Jogador",
   "price": 140,
   "image": "/images/jogador/santos.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
@@ -1234,7 +1234,7 @@
 },
   {
   "id": "155",
-  "name": "Camisa SÃO PAULO",
+  "name": "Camisa São Paulo II 25/26 s/n Jogador",
   "price": 140,
   "image": "/images/jogador/sp.png",
   "sizes": ["P", "M", "G", "GG"],
@@ -1242,7 +1242,7 @@
 },
   {
   "id": "156",
-  "name": "Camisa SÃO PAULO",
+  "name": "São Paulo versão Jogador 24/25",
   "price": 140,
   "image": "/images/jogador/sp2.png",
   "sizes": ["M"],
@@ -1250,7 +1250,7 @@
 },
   {
   "id": "157",
-  "name": "Camisa MANCHESTER UNITED",
+  "name": "Camisa Manchester United Home Versão Jogador 25/2026",
   "price": 140,
   "image": "/images/jogador/united.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
