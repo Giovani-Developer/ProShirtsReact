@@ -53,3 +53,9 @@
     overflow-x: hidden;
   }
 }
+/* MOBILE */
+@media (max-width: 768px) {
+  .banner-img {
+    content: url("/public/icons/banner.jpeg");
+  }
+}
