@@ -1021,7 +1021,7 @@
   "name": "Camisa PALMEIRAS",
   "price": 110,
   "image": "/images/jogador/palmeiras.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M", "G", "GG"],
   "category": "jogador"
 },
   {
@@ -1029,7 +1029,7 @@
   "name": "Camisa AJAX",
   "price": 110,
   "image": "/images/jogador/ajax.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M", "G"],
   "category": "jogador"
 },
   {
@@ -1037,7 +1037,7 @@
   "name": "Camisa ARGENTINA",
   "price": 110,
   "image": "/images/jogador/argentina.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M"],
   "category": "jogador"
 },
   {
@@ -1045,7 +1045,7 @@
   "name": "Camisa ARGENTINA",
   "price": 110,
   "image": "/images/jogador/argentina2.png",
-  "sizes": ["2XL"],
+  "sizes": ["P"],
   "category": "jogador"
 },
   {
@@ -1053,7 +1053,7 @@
   "name": "Camisa BARÇELONA TRAVIS SCOTT",
   "price": 110,
   "image": "/images/jogador/barca travis.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
 },
   {
@@ -1061,7 +1061,7 @@
   "name": "Camisa BARCELONA ",
   "price": 110,
   "image": "/images/jogador/barca.png",
-  "sizes": ["2XL"],
+  "sizes": [ "M", "G", "GG"],
   "category": "jogador"
 },
   {
@@ -1069,7 +1069,7 @@
   "name": "Camisa BARCELONA ",
   "price": 110,
   "image": "/images/jogador/barca2.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M", "G", "GG"],
   "category": "jogador"
 },
   {
@@ -1077,7 +1077,7 @@
   "name": "Camisa BRASIL",
   "price": 110,
   "image": "/images/jogador/brasil.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
 },
   {
@@ -1085,7 +1085,7 @@
   "name": "Camisa BRASIL",
   "price": 110,
   "image": "/images/jogador/brasil2.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
 },
   {
@@ -1093,7 +1093,7 @@
   "name": "Camisa BRASIL",
   "price": 110,
   "image": "/images/jogador/brasil3.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M"],
   "category": "jogador"
 },
   {
@@ -1101,7 +1101,7 @@
   "name": "Camisa BRASIL",
   "price": 110,
   "image": "/images/jogador/brasil4.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
 },
   {
@@ -1109,7 +1109,7 @@
   "name": "Camisa BRASIL",
   "price": 110,
   "image": "/images/jogador/brasil5.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
 },
   {
@@ -1117,7 +1117,7 @@
   "name": "Camisa CHELSEA",
   "price": 110,
   "image": "/images/jogador/chelsea.png",
-  "sizes": ["2XL"],
+  "sizes": [ "M", "G", "GG"],
   "category": "jogador"
 },
   {
@@ -1125,7 +1125,7 @@
   "name": "Camisa CORINTHIANS",
   "price": 110,
   "image": "/images/jogador/corinthians.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
 },
   {
@@ -1133,7 +1133,7 @@
   "name": "Camisa FORTALEZA",
   "price": 110,
   "image": "/images/jogador/fortaleza.png",
-  "sizes": ["2XL"],
+  "sizes": ["P"],
   "category": "jogador"
 },
   {
@@ -1141,7 +1141,7 @@
   "name": "Camisa FRANÇA",
   "price": 110,
   "image": "/images/jogador/franca.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M", "G", "GG"],
   "category": "jogador"
 },
   {
@@ -1149,7 +1149,7 @@
   "name": "Camisa JUVENTUS",
   "price": 110,
   "image": "/images/jogador/juventus.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
 },
   {
@@ -1157,7 +1157,7 @@
   "name": "Camisa REAL MADRID ",
   "price": 110,
   "image": "/images/jogador/madrid.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M", "G", "GG"],
   "category": "jogador"
 },
   {
@@ -1165,7 +1165,7 @@
   "name": "Camisa MILAN",
   "price": 110,
   "image": "/images/jogador/milan.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M", "G"],
   "category": "jogador"
 },
   {
@@ -1173,7 +1173,7 @@
   "name": "Camisa INTER DE MILAO",
   "price": 110,
   "image": "/images/jogador/milao.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
 },
   {
@@ -1181,7 +1181,7 @@
   "name": "Camisa INTER DE MILAO",
   "price": 110,
   "image": "/images/jogador/milao2.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M", "G", "GG"],
   "category": "jogador"
 },
   {
@@ -1189,7 +1189,7 @@
   "name": "Camisa PALMEIRAS",
   "price": 110,
   "image": "/images/jogador/palmeiras.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M", "G", "GG"],
   "category": "jogador"
 },
   {
@@ -1197,7 +1197,7 @@
   "name": "Camisa PALMEIRAS",
   "price": 110,
   "image": "/images/jogador/palmeiras2.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
 },
   {
@@ -1205,7 +1205,7 @@
   "name": "Camisa PSG",
   "price": 110,
   "image": "/images/jogador/psg.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M", "G", "GG"],
   "category": "jogador"
 },
   {
@@ -1213,7 +1213,7 @@
   "name": "Camisa REAL MADRID ",
   "price": 110,
   "image": "/images/jogador/real madrid.png",
-  "sizes": ["2XL"],
+  "sizes": [ "M", "G", "GG"],
   "category": "jogador"
 },
   {
@@ -1221,7 +1221,7 @@
   "name": "Camisa REAL MADRID",
   "price": 110,
   "image": "/images/jogador/real madrid2.png",
-  "sizes": ["2XL"],
+  "sizes": ["GG","2XL"],
   "category": "jogador"
 },
   {
@@ -1229,7 +1229,7 @@
   "name": "Camisa SANTOS LISTRADA",
   "price": 110,
   "image": "/images/jogador/santos.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
 },
   {
@@ -1237,7 +1237,7 @@
   "name": "Camisa SÃO PAULO",
   "price": 110,
   "image": "/images/jogador/sp.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M", "G", "GG"],
   "category": "jogador"
 },
   {
@@ -1245,7 +1245,7 @@
   "name": "Camisa SÃO PAULO",
   "price": 110,
   "image": "/images/jogador/sp2.png",
-  "sizes": ["2XL"],
+  "sizes": ["M"],
   "category": "jogador"
 },
   {
@@ -1253,7 +1253,7 @@
   "name": "Camisa MANCHESTER UNITED",
   "price": 110,
   "image": "/images/jogador/united.png",
-  "sizes": ["2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL"],
   "category": "jogador"
 }
 ]
