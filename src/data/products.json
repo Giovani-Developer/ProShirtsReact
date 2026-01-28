@@ -741,7 +741,7 @@
   "name": "Camisa VASCO DA GAMA",
   "price": 110,
   "image": "/images/vasco2.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["M"],
   "category": "torcedor"
 },
   {
@@ -749,7 +749,7 @@
   "name": "Camisa VASCO DA GAMA",
   "price": 110,
   "image": "/images/vasco.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P", "M","2XL"],
   "category": "torcedor"
 },
   {
@@ -757,7 +757,7 @@
   "name": "Camisa SPORT",
   "price": 110,
   "image": "/images/sport.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
   "category": "torcedor"
 },
   {
@@ -765,7 +765,7 @@
   "name": "Camisa SÃO PAULO",
   "price": 110,
   "image": "/images/sao paulo2.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P", "M","2XL"],
   "category": "torcedor"
 },
   {
@@ -773,7 +773,7 @@
   "name": "Camisa PSG",
   "price": 110,
   "image": "/images/paris.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P","2XL"],
   "category": "torcedor"
 },
   {
@@ -781,7 +781,7 @@
   "name": "Camisa PALMEIRAS",
   "price": 110,
   "image": "/images/palmeiras.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P","2XL"],
   "category": "torcedor"
 },
   {
@@ -789,7 +789,7 @@
   "name": "Camisa ATLETICO MINEIRO",
   "price": 110,
   "image": "/images/mineiro.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL", "4XL"],
   "category": "torcedor"
 },
   {
@@ -797,7 +797,7 @@
   "name": "Camisa MILAN",
   "price": 110,
   "image": "/images/milan.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["G", "GG", "2XL"],
   "category": "torcedor"
 },
   {
@@ -813,7 +813,7 @@
   "name": "Camisa JUVENTUS",
   "price": 110,
   "image": "/images/juventus2.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
   "category": "torcedor"
 },
   {
@@ -821,7 +821,7 @@
   "name": "Camisa INTERNACIONAL",
   "price": 110,
   "image": "/images/internacional2.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P", "G", "GG", "3XL"],
   "category": "torcedor"
 },
   {
@@ -829,7 +829,7 @@
   "name": "Camisa INTER DE MIAMI",
   "price": 110,
   "image": "/images/inter de miami.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL", "3XL", "4XL"],
   "category": "torcedor"
 },
   {
@@ -837,15 +837,15 @@
   "name": "Camisa INGLATERRA",
   "price": 110,
   "image": "/images/inglaterra2.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
   "category": "torcedor"
 },
   {
   "id": "106",
   "name": "Camisa INGLATERRA",
   "price": 110,
-  "image": "/images/inglatera.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "image": "/images/inglaterra.png",
+  "sizes": ["P", "G", "GG", "2XL"],
   "category": "torcedor"
 },
   {
@@ -853,7 +853,7 @@
   "name": "Camisa GREMIO",
   "price": 110,
   "image": "/images/gremio2.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": [ "M", "2XL", "3XL"],
   "category": "torcedor"
 },
   {
@@ -861,7 +861,7 @@
   "name": "Camisa GREMIO",
   "price": 110,
   "image": "/images/gremio.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": [ "GG"],
   "category": "torcedor"
 },
   {
@@ -869,7 +869,7 @@
   "name": "Camisa FLAMENGO PRÉ JOGO",
   "price": 110,
   "image": "/images/flamengo pre.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
   "category": "torcedor"
 },
   {
@@ -877,7 +877,7 @@
   "name": "Camisa CRUZEIRO",
   "price": 110,
   "image": "/images/cruzeiro2.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P", "M", "2XL", "3XL"],
   "category": "torcedor"
 },
   {
@@ -885,7 +885,7 @@
   "name": "Camisa CORINTHIANS",
   "price": 110,
   "image": "/images/corintia2.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["GG", "2XL"],
   "category": "torcedor"
 },
   {
@@ -893,7 +893,7 @@
   "name": "Camisa CORINTHIANS",
   "price": 110,
   "image": "/images/corintia.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P", "M", "G", "GG"],
   "category": "torcedor"
 },
   {
@@ -901,7 +901,7 @@
   "name": "Camisa MANCHESTER CITY",
   "price": 110,
   "image": "/images/city2.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
   "category": "torcedor"
 },
   {
@@ -909,7 +909,7 @@
   "name": "Camisa CHELSEA",
   "price": 110,
   "image": "/images/chelsea.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
   "category": "torcedor"
 },
   {
@@ -925,7 +925,7 @@
   "name": "Camisa BOTAFOGO",
   "price": 110,
   "image": "/images/botafogo.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P", "M"],
   "category": "torcedor"
 },
   {
@@ -933,7 +933,7 @@
   "name": "Camisa BORUSSIA DORTMUND",
   "price": 110,
   "image": "/images/borussia2.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
   "category": "torcedor"
 },
   {
@@ -941,7 +941,7 @@
   "name": "Camisa BOCA JUNIORS",
   "price": 110,
   "image": "/images/boca2.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P", "M"],
   "category": "torcedor"
 },
   {
@@ -957,7 +957,7 @@
   "name": "Camisa BENFICA",
   "price": 110,
   "image": "/images/benfica.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
   "category": "torcedor"
 },
   {
@@ -965,7 +965,7 @@
   "name": "Camisa BAYERN MUNIQUE",
   "price": 110,
   "image": "/images/bayer3.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": [ "GG", "2XL", "3XL"],
   "category": "torcedor"
 },
   {
@@ -973,7 +973,7 @@
   "name": "Camisa BAYERN MUNIQUE",
   "price": 110,
   "image": "/images/bayer2.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
   "category": "torcedor"
 },
   {
@@ -989,7 +989,7 @@
   "name": "Camisa BARÇELONA",
   "price": 110,
   "image": "/images/barça.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P", "M", "G", "GG"],
   "category": "torcedor"
 },
   {
@@ -1005,7 +1005,7 @@
   "name": "Camisa BAHIA",
   "price": 110,
   "image": "/images/bahia2.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
   "category": "torcedor"
 },
   {
@@ -1013,7 +1013,7 @@
   "name": "Camisa ARSENAL",
   "price": 110,
   "image": "/images/arsenal2.png",
-  "sizes": ["P", "M", "G", "GG", "2XL"],
+  "sizes": ["2XL"],
   "category": "torcedor"
 }
 
