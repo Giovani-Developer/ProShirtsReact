@@ -52,7 +52,7 @@
 ========================= */
 @media (max-width: 768px) {
   .benefits-container {
-    flex-direction: row;
+    flex-direction: column;
     gap: 10px;
   }
   .benefit-card h3 {

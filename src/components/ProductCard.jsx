@@ -21,7 +21,10 @@ export default function ProductCard({ product }) {
       </div>
 
       <h3>{product.name}</h3>
-      <span className="price">R$ {product.price.toFixed(2)}</span>
+      <span className="price">R$   {product.price.toLocaleString("pt-BR", {
+    style: "currency",
+    currency: "BRL",
+  })}</span>
     </motion.div>
   );
 }
