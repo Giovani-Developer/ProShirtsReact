@@ -62,7 +62,7 @@ export default function Home() {
       <ProductGrid products={currentProducts} />
 
       {/* PAGINAÇÃO */}
-      {totalPages > 1 && (
+      {products.length > 0 && (
   <div className="pagination">
     <button
       disabled={page === 1}

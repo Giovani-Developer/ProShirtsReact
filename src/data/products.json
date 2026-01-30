@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "name": "Camisa MILAN",
+    "name": "CAMISA A.C MILAN EDIÇÃO CO-BRANDED 25/26 - MASCULINA - VERMELHA E VERDE",
     "price": 110,
     "image": "/images/ac milan.png",
     "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -9,7 +9,7 @@
   },
   {
     "id": "2",
-    "name": "Camisa AJAX",
+    "name": "Camisa do Ajax 25/26 bege Torcedor",
     "price": 110,
     "image": "/images/ajax.png",
     "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -17,7 +17,7 @@
   },
   {
     "id": "3",
-    "name": "Camisa AJAX",
+    "name": "Camisa do Ajax 25/26 Torcedor Masculino",
     "price": 110,
     "image": "/images/ajax2.png",
     "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -26,7 +26,7 @@
 
   {
   "id": "4",
-  "name": "Camisa ARSENAL",
+  "name": "Camisa Arsenal 2025/26 Baseball - Torcedor Masculina",
   "price": 110,
   "image": "/images/arsenal baseball.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"], 
@@ -34,7 +34,7 @@
 },
   {
   "id": "5",
-  "name": "Camisa ARSENAL",
+  "name": "Camisa do Arsenal 25/26 Torcedor",
   "price": 110,
   "image": "/images/arsenal.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -42,7 +42,7 @@
 },
   {
   "id": "6",
-  "name": "Camisa ATLETICO DE MADRID",
+  "name": "Camisa do Atlético Madrid 25/26 Torcedor",
   "price": 110,
   "image": "/images/atletico de madrid.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
@@ -50,7 +50,7 @@
 },
   {
   "id": "7",
-  "name": "Camisa ATLETICO MINEIRO - TREINO",
+  "name": "Camisa Atlético Mineiro - Treino 25/26",
   "price": 110,
   "image": "/images/atletico mg treino.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "4XL"],
@@ -58,7 +58,7 @@
 },
   {
   "id": "8",
-  "name": "Camisa ATLETICO MINEIRO",
+  "name": "Camisa Atlético Mineiro All Black 2025/26 - Torcedor Masculino",
   "price": 110,
   "image": "/images/atletico mineiro.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -66,7 +66,7 @@
 },
   {
   "id": "9",
-  "name": "Camisa ATLETICO MINEIRO - TREINO",
+  "name": "Camisa Atlético Mineiro - Treino 25/26",
   "price": 110,
   "image": "/images/atletico mineiro treino.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL", "4XL"],
@@ -74,7 +74,7 @@
 },
   {
   "id": "10",
-  "name": "Camisa BARCELONA ",
+  "name": "Camisa Barcelona Third 25/26 Torcedor Masculina",
   "price": 110,
   "image": "/images/barcelona laranja.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -82,7 +82,7 @@
 },
   {
   "id": "11",
-  "name": "Camisa BAYERN MUNIQUE",
+  "name": "Camisa Bayern de Munique Especial 25/26",
   "price": 110,
   "image": "/images/bayern munique especial.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -90,7 +90,7 @@
 },
   {
   "id": "12",
-  "name": "Camisa BAYERN",
+  "name": "Camisa Bayern München 25/26 Torcedor",
   "price": 110,
   "image": "/images/bayern.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -98,7 +98,7 @@
 },
   {
   "id": "13",
-  "name": "Camisa BOCA JUNIORS",
+  "name": "Camisa Boca Juniors Baseball 2025/2026",
   "price": 110,
   "image": "/images/boca juniors.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -106,7 +106,7 @@
 },
   {
   "id": "14",
-  "name": "Camisa ATLETICO MINEIRO",
+  "name": "Camisa Third Atlético Mineiro 25/26 Torcedor",
   "price": 110,
   "image": "/images/cam.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -114,7 +114,7 @@
 },
   {
   "id": "15",
-  "name": "Camisa CONJUNTO TREINO FLAMENGO AZUL",
+  "name": "Conjunto Treino Flamengo 25/26 Azul Adidas Masculino",
   "price": 110,
   "image": "/images/conjunto treino flamengo azul.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
@@ -122,7 +122,7 @@
 },
   {
   "id": "16",
-  "name": "Camisa CONJUNTO TREINO FLAMENGO",
+  "name": "Conjunto Treino Flamengo 25/26 Azul Adidas Masculino",
   "price": 110,
   "image": "/images/conjunto treino flamengo.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
@@ -130,7 +130,7 @@
 },
   {
   "id": "17",
-  "name": "Camisa CRUZEIRO - TREINO",
+  "name": "Camisa Cruzeiro 25/26 Treino Masculina - Azul Turquesa",
   "price": 110,
   "image": "/images/cruzeiro treino.png",
   "sizes": [ "GG", "2XL", "3XL"],
@@ -138,7 +138,7 @@
 },
   {
   "id": "18",
-  "name": "Camisa CRUZEIRO",
+  "name": "Cruzeiro - Third 25/26 Torcedor",
   "price": 110,
   "image": "/images/cruzeiro.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
@@ -146,7 +146,7 @@
 },
   {
   "id": "19",
-  "name": "Camisa FIORENTINA",
+  "name": "Camisa Fiorentina I 25/26 Modelo Torcedor",
   "price": 110,
   "image": "/images/fiorentina.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -154,7 +154,7 @@
 },
   {
   "id": "20",
-  "name": "Camisa FLAMENGO AZUL POLO",
+  "name": "Camisa Azul do Flamengo polo 25/27 Torcedor Masculino",
   "price": 110,
   "image": "/images/flamengo azul polo.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
@@ -162,7 +162,7 @@
 },
   {
   "id": "21",
-  "name": "Camisa FLAMENGO REGATA AZUL",
+  "name": "Camisa do Flamengo Regata azul claro 25/26 Masculina",
   "price": 110,
   "image": "/images/flamengo regata azul.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -170,7 +170,7 @@
 },
   {
   "id": "22",
-  "name": "Camisa FLAMENGO REGATA",
+  "name": "Camisa do Flamengo Regata 25/26",
   "price": 110,
   "image": "/images/flamengo regata.png",
   "sizes": ["P", "2XL"],
@@ -178,7 +178,7 @@
 },
   {
   "id": "23",
-  "name": "Camisa FLAMENGO",
+  "name": "Camisa Flamengo Lifestyler 25/26 MASCULINO",
   "price": 110,
   "image": "/images/flamengo.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -186,7 +186,7 @@
 },
   {
   "id": "24",
-  "name": "Camisa INTER DE MILAO",
+  "name": "Camisa Inter de Milão 25/26 Third - Masculina",
   "price": 110,
   "image": "/images/inter de milao.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -194,7 +194,7 @@
 },
   {
   "id": "25",
-  "name": "Camisa INTERNACIONAL",
+  "name": "Camisa Internacional 25/26 (CAMISA COM TRANSPARÊNCIA DE TINTA)",
   "price": 110,
   "image": "/images/internacional.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL", "4XL"],
@@ -202,7 +202,7 @@
 },
   {
   "id": "26",
-  "name": "Camisa ITALIA",
+  "name": "Camisa Itália - Edição Especial - 2025/26",
   "price": 110,
   "image": "/images/italia.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL", "4XL"],
@@ -210,7 +210,7 @@
 },
   {
   "id": "27",
-  "name": "Camisa JUVENTUS",
+  "name": "Camisa Juventus Viagem US 'Mundial De Clubes' 2025/26 Torcedor Masculina",
   "price": 110,
   "image": "/images/juventos.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -218,7 +218,7 @@
 },
   {
   "id": "28",
-  "name": "Camisa LIVERPOOL",
+  "name": "Camisa Liverpool Home 2025/26",
   "price": 110,
   "image": "/images/liverpool.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -226,7 +226,7 @@
 },
   {
   "id": "29",
-  "name": "Camisa MANCHESTER UNITED",
+  "name": "Manchester United - US Pack Baseball 2025-26",
   "price": 110,
   "image": "/images/manchester united.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -234,7 +234,7 @@
 },
   {
   "id": "30",
-  "name": "Camisa MILAN - GOLEIRO",
+  "name": "Camisa Milan - Goleiro 25/26",
   "price": 110,
   "image": "/images/milan goleiro.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -242,7 +242,7 @@
 },
   {
   "id": "31",
-  "name": "Camisa NAPOLI",
+  "name": "Camisa Napoli Away (2) 'Champions League' 2025/26 EA7 Torcedor Masculina",
   "price": 110,
   "image": "/images/napoli.png",
   "sizes": ["P", "M", "GG", "2XL", "3XL"],
@@ -250,7 +250,7 @@
 },
   {
   "id": "32",
-  "name": "Camisa NEW CASTLE",
+  "name": "CAMISA III NEWCASTLE UNITED FC 25/26",
   "price": 110,
   "image": "/images/new castle.png",
  "sizes": ["P", "G", "GG", "2XL"],
@@ -258,7 +258,7 @@
 },
   {
   "id": "33",
-  "name": "Camisa PSG",
+  "name": "Camisa PSG 25/26 torcedor",
   "price": 110,
   "image": "/images/psg laranja.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -266,7 +266,7 @@
 },
   {
   "id": "34",
-  "name": "Camisa RACING",
+  "name": "Camisa Racing Santander Goleiro '112th Anniversary' 2024/25 Hummel Torcedor Masculina",
   "price": 110,
   "image": "/images/racing.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -274,7 +274,7 @@
 },
   {
   "id": "35",
-  "name": "Camisa RANGERS",
+  "name": "CAMISOLA RANGERS TERCEIRA 2025/26",
   "price": 110,
   "image": "/images/rangers terceira.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -282,7 +282,7 @@
 },
   {
   "id": "36",
-  "name": "Camisa REAL MADRID BASEBALL",
+  "name": "Camisa Real Madrid Baseball US Pack 2025/26 Adidas Branco",
   "price": 110,
   "image": "/images/real madrid baseball.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -290,7 +290,7 @@
 },
   {
   "id": "37",
-  "name": "Camisa REAL MADRID - TREINO",
+  "name": "Camisa Real Madrid 2025 Treino",
   "price": 110,
   "image": "/images/real madrid treino.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -298,7 +298,7 @@
 },
   {
   "id": "38",
-  "name": "Camisa REGATA FLAMENGO",
+  "name": "Camisa do Flamengo regata 25/26 Masculina",
   "price": 110,
   "image": "/images/regata flamengo.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL", "4XL"],
@@ -306,7 +306,7 @@
 },
   {
   "id": "39",
-  "name": "Camisa SANTOS LISTRADA",
+  "name": "Camisa do Santos Listrada 25/26 Versão Jogador",
   "price": 110,
   "image": "/images/santos listrada.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
@@ -314,7 +314,7 @@
 },
   {
   "id": "40",
-  "name": "Camisa SANTOS PERSONALIZADA",
+  "name": "Camisa do Santos 25/26 Personalizada (Neymar JR. 10)",
   "price": 110,
   "image": "/images/santos personalizada.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -322,7 +322,7 @@
 },
   {
   "id": "41",
-  "name": "Camisa SAO PAULO",
+  "name": "Camisa lll São Paulo 25/26 Versão Torcedor - Masculina",
   "price": 110,
   "image": "/images/sao paulo.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -330,7 +330,7 @@
 },
   {
   "id": "42",
-  "name": "Camisa TIGRES",
+  "name": "Camisa do Tigres Torcedor Masculino",
   "price": 110,
   "image": "/images/tigres.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -338,7 +338,7 @@
 },
   {
   "id": "43",
-  "name": "Camisa WEST HAM",
+  "name": "Camisa West Ham - Away 25/26 Torcedor",
   "price": 110,
   "image": "/images/west ham.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -346,7 +346,7 @@
 },
   {
   "id": "44",
-  "name": "Camisa WEST HAM",
+  "name": "Camisa West Ham 25/26 Home - Masculina - Modelo Torcedor- Vinho",
   "price": 110,
   "image": "/images/west ham2.png",
   "sizes": ["P", "GG", "2XL", "3XL"],
@@ -354,7 +354,7 @@
 },
   {
   "id": "45",
-  "name": "Camisa AJAX",
+  "name": "Camisa Ajax Home 25/26 Torcedor Masculina",
   "price": 110,
   "image": "/images/ajax3.png",
   "sizes": ["P", "GG", "2XL", "3XL"],
@@ -362,7 +362,7 @@
 },
   {
   "id": "46",
-  "name": "Camisa AL HILAL",
+  "name": "Camisa Al Hilal 2025/26 Home",
   "price": 110,
   "image": "/images/al hilal.png",
   "sizes": ["P", "M", "G"],
@@ -370,7 +370,7 @@
 },
   {
   "id": "47",
-  "name": "Camisa ALEMANHA",
+  "name": "Camisa Alemanha Away 2025/26 - Torcedor Masculina",
   "price": 110,
   "image": "/images/alemanha.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
@@ -378,7 +378,7 @@
 },
   {
   "id": "48",
-  "name": "Camisa ASTON VILLA",
+  "name": "Camisa Aston Villa Home (1) 2025/26 Torcedor Masculina",
   "price": 110,
   "image": "/images/aston.png",
   "sizes": ["P","GG", "2XL"],
@@ -386,7 +386,7 @@
 },
   {
   "id": "49",
-  "name": "Camisa ATALANTA",
+  "name": "CAMISA DA ATALANTA - HOME 25/26",
   "price": 110,
   "image": "/images/atlanta.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -394,7 +394,7 @@
 },
   {
   "id": "50",
-  "name": "Camisa ATLETICO DE MADRID",
+  "name": "ATLETICO MADRID EXTERIEUR 2025/2026",
   "price": 110,
   "image": "/images/atletico de madrid2.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
@@ -402,7 +402,7 @@
 },
   {
   "id": "51",
-  "name": "Camisa BAHIA",
+  "name": "Camisa Bahia Torcedor 2025",
   "price": 110,
   "image": "/images/bahia.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "4XL"],
@@ -410,7 +410,7 @@
 },
   {
   "id": "52",
-  "name": "Camisa BARCELONA ",
+  "name": "Camisa Barcelona Away 2025/26 - Torcedor Masculina",
   "price": 110,
   "image": "/images/barcelona2.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -418,7 +418,7 @@
 },
   {
   "id": "53",
-  "name": "Camisa BETIS",
+  "name": "Camisa Betis - Home Torcedor",
   "price": 110,
   "image": "/images/betis.png",
   "sizes": ["P","GG", "2XL"],
@@ -426,7 +426,7 @@
 },
   {
   "id": "54",
-  "name": "Camisa BILBAO",
+  "name": "Camisa Athletic Bilbao 25/26 Home - Masculina - Modelo Torcedor - Vermelha",
   "price": 110,
   "image": "/images/bilbao.png",
   "sizes": ["P", "M", "G", "GG", "2XL", "3XL"],
@@ -434,7 +434,7 @@
 },
   {
   "id": "55",
-  "name": "Camisa BORUSSIA DORTMUND",
+  "name": "Camisa Borussia Dortmund Edição especial de Aniversário 25/26 - Torcedor",
   "price": 110,
   "image": "/images/borussia.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],
@@ -442,7 +442,7 @@
 },
   {
   "id": "56",
-  "name": "Camisa MANCHESTER CITY",
+  "name": "",
   "price": 110,
   "image": "/images/city.png",
   "sizes": ["P", "M", "G", "GG", "2XL"],

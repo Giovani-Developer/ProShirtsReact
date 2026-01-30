@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import PropTypes from "prop-types";
 import { motion } from "framer-motion";
 import "../styles/product.css";
+import { formatPrice } from "../utils/formatPrice";
 
 export default function ProductCard({ product }) {
   return (
@@ -21,10 +22,7 @@ export default function ProductCard({ product }) {
       </div>
 
       <h3>{product.name}</h3>
-      <span className="price">R$   {product.price.toLocaleString("pt-BR", {
-    style: "currency",
-    currency: "BRL",
-  })}</span>
+      <span className="price">{formatPrice(product.price)}</span>
     </motion.div>
   );
 }

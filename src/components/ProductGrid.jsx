@@ -3,7 +3,9 @@ import ProductCard from "./ProductCard";
 import "../styles/product.css";
 import { motion } from "framer-motion";
 
-export default function ProductGrid({ products }) {
+
+export default function ProductGrid({ products}) {
+  
   return (
     <section className="products-section">
       <h2 className="product-h2">Nossos Produtos</h2>
