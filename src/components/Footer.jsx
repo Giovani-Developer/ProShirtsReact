@@ -4,10 +4,7 @@ export default function Footer() {
   return (
     <footer className="footer">
       <div className="footer-top">
-        <div className="footer-col">
-          <h4>INSTITUCIONAL</h4>
-          <a href="#">Sobre a ProShirts</a>
-        </div>
+
 
         <div className="footer-col">
           <h4>ATENDIMENTO</h4>
