@@ -7,21 +7,6 @@ export default function Footer() {
         <div className="footer-col">
           <h4>INSTITUCIONAL</h4>
           <a href="#">Sobre a ProShirts</a>
-          <a href="#">Fale Conosco</a>
-          <a href="#">Política de Privacidade</a>
-        </div>
-
-        <div className="footer-col">
-          <h4>SUA CONTA</h4>
-          <a href="#">Minha conta</a>
-          <a href="#">Meus pedidos</a>
-          <a href="#">Meu carrinho</a>
-        </div>
-
-        <div className="footer-col">
-          <h4>AJUDA</h4>
-          <a href="#">Trocas e devoluções</a>
-          <a href="#">Rastrear pedido</a>
         </div>
 
         <div className="footer-col">

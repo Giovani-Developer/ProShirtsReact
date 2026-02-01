@@ -71,14 +71,7 @@ export default function Header() {
           />
 
           {/* DIREITA */}
-          <div className="header-right">
-            <span className="account-icon">
-              <img
-                src="/icons/account.webp"
-                alt="Conta"
-                style={{ width: 22 }}
-              />
-            </span>
+
 
             <Link to="/cart" className="cart-icon">
               <img src="/icons/cart.jpg" alt="Carrinho" style={{ width: 22 }} />
@@ -86,7 +79,7 @@ export default function Header() {
               {cartCount > 0 && <span className="cart-count">{cartCount}</span>}
             </Link>
           </div>
-        </div>
+     
 
         {/* MENU DESKTOP */}
         <nav className="desktop-menu">
