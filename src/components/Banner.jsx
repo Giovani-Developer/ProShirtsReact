@@ -9,7 +9,7 @@ export default function Banner() {
           srcSet="/images/banner.png"
         />
         <img
-          src="/images/banner-principal.JPG"
+          src="/images/banner-principal.png"
           alt="Banner principal"
           className="banner-image"
         />
